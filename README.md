@@ -1,4 +1,4 @@
-# DATA604-Data-Management-Project - Statistical Analysis and Comparison of Classification Models for Credit Card Fraud Detection on an Imbalanced Dataset Using Wilcoxon Signed-Rank and Friedman Hypothesis Tests
+# DATA601-Intro-To-Data-Science-Project - Statistical Analysis and Comparison of Classification Models for Credit Card Fraud Detection on an Imbalanced Dataset Using Wilcoxon Signed-Rank and Friedman Hypothesis Tests
 
 Brief Git Tutorial and Environment Setup for Group Members:
 1. Register/Login to github and access the HTTPS repo: https://github.com/mhan44/DATA604-Data-Management-Project. I will add you as a collaborator once you message me your username
