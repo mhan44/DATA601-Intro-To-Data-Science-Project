@@ -1,7 +1,7 @@
 # DATA601-Intro-To-Data-Science-Project - Statistical Analysis and Comparison of Classification Models for Credit Card Fraud Detection on an Imbalanced Dataset Using Wilcoxon Signed-Rank and Friedman Hypothesis Tests
 
 Brief Git Tutorial and Environment Setup for Group Members:
-1. Register/Login to github and access the HTTPS repo: https://github.com/mhan44/DATA604-Data-Management-Project. I will add you as a collaborator once you message me your username
+1. Register/Login to github and access the HTTPS repo: https://github.com/mhan44/DATA601-Intro-To-Data-Science-Project. I will add you as a collaborator once you message me your username
 2. Install git on your device from https://git-scm.com/install/ depending on your OS
 3. (Optional) Install VSCode https://code.visualstudio.com/ and the relevant extensions: Jupyter, Jupyter Cell Tags, Jupyter Keymap, Jupyter Notebook Renders, Jupyter Slide Show, Markdown All in One, Markdown PDF, Markdown Preview Enhanced, Python, Python Debugger, Python Enviroments GitHub Pull Requests
 4. In your device's terminal, cmd for windows, or the terminal in vscode, configure your git identity with these commands:
@@ -15,11 +15,11 @@ Brief Git Tutorial and Environment Setup for Group Members:
 5. In VSCode or cmd, cd to your desired directory to copy the current working repository, for example:
    *  cd C:\Users\MyUser\Desktop\DATA601
 6. Now in your desired directory, clone the repository:
-   * git clone https://github.com/mhan44/DATA604-Data-Management-Project
-   * cd DATA604-Data-Management-Project
-   * Now you have copied the repository to your device and can commit/push changes. Your file path should look something like C:\Users\MyUser\Desktop\DATA601\DATA604-Data-Management-Project
+   * git clone https://github.com/mhan44/DATA601-Intro-To-Data-Science-Project
+   * cd DATA601-Intro-To-Data-Science-Project
+   * Now you have copied the repository to your device and can commit/push changes. Your file path should look something like C:\Users\MyUser\Desktop\DATA601\DATA601-Intro-To-Data-Science-Project
 7. GitHub automatically blocks any files larger than 100MB that are pushed to a repository via command line, like our dataset creditcard.csv. To bypass this, we install Git Large File Storage (Git LFS) like so:
-   *  Make sure you are in the project directory: cd C:\Users\MyUser\Desktop\DATA601\DATA604-Data-Management-Project
+   *  Make sure you are in the project directory: cd C:\Users\MyUser\Desktop\DATA601\DATA601-Intro-To-Data-Science-Project
    *  git lfs install
    *  git lfs pull
 8. Editing, committing, and pushing
