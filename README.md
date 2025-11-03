@@ -1,5 +1,8 @@
 # DATA601-Intro-To-Data-Science-Project - Statistical Analysis and Comparison of Classification Models for Credit Card Fraud Detection on an Imbalanced Dataset Using Wilcoxon Signed-Rank and Friedman Hypothesis Tests
 
+Install the dataset from kaggle.com to work around github's 100MB file limit, drop creditcard.csv into the project directory after cloning.
+* https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data 
+
 Brief Git Tutorial and Environment Setup for Group Members:
 1. Register/Login to github and access the HTTPS repo: https://github.com/mhan44/DATA601-Intro-To-Data-Science-Project. I will add you as a collaborator once you message me your username
 2. Install git on your device from https://git-scm.com/install/ depending on your OS
